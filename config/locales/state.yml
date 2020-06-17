@@ -1,0 +1,5 @@
+en:
+  enumerations:
+    state:
+      disabled: 'Disabled'
+      enabled: 'Enabled'
